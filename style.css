@@ -1,0 +1,12 @@
+ body {
+     min-height: 1500px;
+ }
+ 
+ .jumbotron {
+     padding: 2rem 1rem;
+     background-color: aquamarine;
+ }
+ 
+ .class_project {
+     background-color: aquamarine;
+ }
